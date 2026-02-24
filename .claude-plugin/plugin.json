@@ -1,6 +1,0 @@
-{
-  "name": "knowledge-work-plugins",
-  "version": "1.0.0",
-  "description": "Collection of Claude Skills",
-  "skills": "./skills/"
-}

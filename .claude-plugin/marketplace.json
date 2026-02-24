@@ -1,0 +1,16 @@
+{
+  "name": "knowledge-work-plugins",
+  "version": "1.0.0",
+  "description": "A collection of Claude skills for knowledge work",
+  "owner": {
+    "name": "Carlos Espejo"
+  },
+  "plugins": [
+    {
+      "name": "financial-advisor",
+      "description": "A personal financial advisor skill powered by Ramit Sethi's philosophy",
+      "source": "./plugins/financial-advisor",
+      "category": "productivity"
+    }
+  ]
+}
