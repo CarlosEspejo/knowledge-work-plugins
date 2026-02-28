@@ -30,11 +30,8 @@ Then chat naturally or use `/financial-advisor` to start a session.
 
 ### Claude.ai / Claude Desktop Chat
 
-There is no plugin system on claude.ai, but you can get the same behavior using a Project:
+1. Go to claude.ai → click your profile → **Customize** → **Skills**
+2. Click **Add skill** → **Upload skill**
+3. Upload the [financial-advisor SKILL.md](plugins/financial-advisor/skills/financial-advisor/SKILL.md) file directly
 
-1. Create a new Project on claude.ai
-2. Open the [financial-advisor SKILL.md](plugins/financial-advisor/skills/financial-advisor/SKILL.md) in this repo
-3. Copy everything below the `---` frontmatter block
-4. Paste it into your Project's custom instructions
-
-> **Note:** The Project instructions won't auto-update when this repo changes. Check back here for the latest version of the skill.
+> **Note:** The skill instructions won't auto-update when this repo changes. Check back here for the latest version.
