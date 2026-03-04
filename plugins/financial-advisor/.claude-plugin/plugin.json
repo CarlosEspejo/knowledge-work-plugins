@@ -1,6 +1,0 @@
-{
-  "name": "financial-advisor",
-  "version": "1.0.0",
-  "description": "A personal financial advisor skill powered by Ramit Sethi's philosophy",
-  "skills": "./skills/"
-}

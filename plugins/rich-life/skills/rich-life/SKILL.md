@@ -1,5 +1,5 @@
 ---
-name: financial-advisor
+name: rich-life
 description: >
   A personal financial advisor skill powered by Ramit Sethi's "I Will Teach You To Be Rich"
   and "Money for Couples" philosophy. Trigger this skill whenever the user asks about money,
