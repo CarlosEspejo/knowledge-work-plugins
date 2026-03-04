@@ -1,0 +1,6 @@
+{
+  "name": "rich-life",
+  "version": "1.0.0",
+  "description": "Your guide to building a Rich Life, powered by Ramit Sethi's philosophy",
+  "skills": "./skills/"
+}
