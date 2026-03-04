@@ -7,9 +7,9 @@
   },
   "plugins": [
     {
-      "name": "financial-advisor",
-      "description": "A personal financial advisor skill powered by Ramit Sethi's philosophy",
-      "source": "./plugins/financial-advisor",
+      "name": "rich-life",
+      "description": "Your guide to building a Rich Life, powered by Ramit Sethi's philosophy",
+      "source": "./plugins/rich-life",
       "category": "productivity"
     }
   ]
